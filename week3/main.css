@@ -1,0 +1,15 @@
+body {
+	text-align: left;
+	background: #FFFFFF;
+}
+
+h1 {font-family: Arial, sans-serif;
+font-weight: normal;
+}
+
+a{display: block;
+}
+
+.blue{
+	color:#0000FF;
+	}

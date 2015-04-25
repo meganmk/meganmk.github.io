@@ -1,15 +1,27 @@
-body {
-	text-align: left;
-	background: #FFFFFF;
+body {font-family: Helvetica, sans-serif;
+text-align: left;
+background: #FFFFFF;
+background-image:url("../assets/Foam.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
 }
 
-h1 {font-family: Arial, sans-serif;
-font-weight: normal;
+h1 {font-family: Helvetica, sans-serif; text-align: left;
+font-size: 30px
 }
+h2 {font-family: Helvetica, sans-serif; text-align: left;
+font-style: italic;font-size: 18px}
 
 a{display: block;
 }
 
-.blue{
-	color:#0000FF;
+img{
+	display: right;
+}
+
+.first{
+	color:#475763;
 	}
+
+#second{}	

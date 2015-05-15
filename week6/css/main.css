@@ -1,0 +1,21 @@
+body{
+	text-align: center;color: #000000
+}
+
+h1{font-family: 'Pathway Gothic One', sans-serif; letter-spacing: 2px;
+
+}
+
+img {margin: 12px;}
+
+#wrapper {
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav {
+	text-align: center;
+	font-family: 'Pathway Gothic One';
+	padding: 5px 0 5px 0;
+}
